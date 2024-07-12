@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ultimate-fun.v12/static/css/main.e6c13ad2.css",
+    "main.js": "/ultimate-fun.v12/static/js/main.66c38cb9.js",
+    "index.html": "/ultimate-fun.v12/index.html",
+    "main.e6c13ad2.css.map": "/ultimate-fun.v12/static/css/main.e6c13ad2.css.map",
+    "main.66c38cb9.js.map": "/ultimate-fun.v12/static/js/main.66c38cb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.66c38cb9.js"
+  ]
+}
