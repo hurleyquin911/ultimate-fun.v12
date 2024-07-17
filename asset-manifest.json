@@ -1,26 +1,34 @@
 {
   "files": {
-    "main.css": "/ultimate-fun.v12/static/css/main.5cdaac68.css",
-    "main.js": "/ultimate-fun.v12/static/js/main.2e251048.js",
+    "main.css": "/ultimate-fun.v12/static/css/main.cf10e695.css",
+    "main.js": "/ultimate-fun.v12/static/js/main.0191a8f3.js",
     "static/media/background.jpg": "/ultimate-fun.v12/static/media/background.d5b17d695c68048d7d71.jpg",
-    "static/media/Gathering.png": "/ultimate-fun.v12/static/media/Gathering.3b171045bbeeeeeecdd5.png",
-    "static/media/Wedding.png": "/ultimate-fun.v12/static/media/Wedding.e32b0902e2e52fac6fd3.png",
-    "static/media/Tour.png": "/ultimate-fun.v12/static/media/Tour.9205cb55b17422d6883a.png",
-    "static/media/Training.png": "/ultimate-fun.v12/static/media/Training.ee483d1f382f5992ec9b.png",
-    "static/media/Event.png": "/ultimate-fun.v12/static/media/Event.6d4fd838f8bbc67793bb.png",
-    "static/media/5.png": "/ultimate-fun.v12/static/media/5.2e9160bffcb6e99b0ac2.png",
-    "static/media/6.png": "/ultimate-fun.v12/static/media/6.674a2c844c95d682beae.png",
-    "static/media/2.png": "/ultimate-fun.v12/static/media/2.9644e1c5ec821ec6e897.png",
+    "static/media/Gathering.png": "/ultimate-fun.v12/static/media/Gathering.1d16ab1fbc3b8f3a7dce.png",
+    "static/media/Wedding.png": "/ultimate-fun.v12/static/media/Wedding.3645a1ba518acbf5e9be.png",
+    "static/media/Tour.png": "/ultimate-fun.v12/static/media/Tour.b0816e3710327e54a8ff.png",
+    "static/media/Training.png": "/ultimate-fun.v12/static/media/Training.32d855dc4776d2a10305.png",
+    "static/media/Event.png": "/ultimate-fun.v12/static/media/Event.0119376934824cab4c2c.png",
+    "static/media/5.png": "/ultimate-fun.v12/static/media/5.d54b8e405b630cbbb22d.png",
+    "static/media/8.png": "/ultimate-fun.v12/static/media/8.f42c95aac8d99fca878a.png",
+    "static/media/3.png": "/ultimate-fun.v12/static/media/3.6a72b0c3eb59d5448ba1.png",
+    "static/media/7.png": "/ultimate-fun.v12/static/media/7.6fda9cfe5568cfbe18bf.png",
+    "static/media/6.png": "/ultimate-fun.v12/static/media/6.5fa0fe9fa8cf4e1cb0ba.png",
+    "static/media/1.png": "/ultimate-fun.v12/static/media/1.512297048318d40410b8.png",
+    "static/media/2.png": "/ultimate-fun.v12/static/media/2.47100e69daad90d1f963.png",
+    "static/media/9.png": "/ultimate-fun.v12/static/media/9.3fecba2364a3cd5522a3.png",
+    "static/media/4.png": "/ultimate-fun.v12/static/media/4.73718e2ca7bf4991aa0f.png",
+    "static/media/12.png": "/ultimate-fun.v12/static/media/12.f9673628aa45f750b3e7.png",
+    "static/media/11.png": "/ultimate-fun.v12/static/media/11.e5a19b3a4dbf46738e21.png",
     "static/media/CEO.png": "/ultimate-fun.v12/static/media/CEO.6c24f80096235e073b0a.png",
-    "static/media/1.png": "/ultimate-fun.v12/static/media/1.523aa14318688b3a7d26.png",
-    "static/media/4.png": "/ultimate-fun.v12/static/media/4.ce25bf3e6155e9a4d8ae.png",
-    "static/media/3.png": "/ultimate-fun.v12/static/media/3.0af20048af372e5a4825.png",
+    "static/media/10.png": "/ultimate-fun.v12/static/media/10.728106e18b3de398469b.png",
+    "static/media/logo.png": "/ultimate-fun.v12/static/media/logo.0c21e25ff6a4c7868cd3.png",
+    "static/media/13.png": "/ultimate-fun.v12/static/media/13.079a0d69b03b0290a4f6.png",
     "index.html": "/ultimate-fun.v12/index.html",
-    "main.5cdaac68.css.map": "/ultimate-fun.v12/static/css/main.5cdaac68.css.map",
-    "main.2e251048.js.map": "/ultimate-fun.v12/static/js/main.2e251048.js.map"
+    "main.cf10e695.css.map": "/ultimate-fun.v12/static/css/main.cf10e695.css.map",
+    "main.0191a8f3.js.map": "/ultimate-fun.v12/static/js/main.0191a8f3.js.map"
   },
   "entrypoints": [
-    "static/css/main.5cdaac68.css",
-    "static/js/main.2e251048.js"
+    "static/css/main.cf10e695.css",
+    "static/js/main.0191a8f3.js"
   ]
 }
